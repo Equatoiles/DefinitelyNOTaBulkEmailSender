@@ -1,2 +1,3 @@
 # DefinitelyNOTaBulkEmailSender
 Definitely not a bulk email sender, I urge anyone using this program to use it for good purposes only :)
+Definitely not a bulk email sender, I urge anyone using this program to use it for good purposes only :) This program was created using the Mailjet SMTP service, however any SMTP service works just as well. The only things needed to run this code are a valid SMTP service, and, if you are on windows, you will need to install a WSL (Windows Subsystem for Linux) to connect to the SMTP properly. Again, I have to state, THIS IS FOR RECREATIONAL PURPOSES ONLY, DO NOT USE THE PROGRAM FOR ANYTHING AT ALL NEFARIOUS. Anyway have fun :3
